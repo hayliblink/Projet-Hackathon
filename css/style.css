@@ -159,5 +159,10 @@ button:focus{ outline: none; }
 	min-width: 64px;
 }
 
-
+img{
+    position: fixed;
+    right: 45px;
+    top: 45px;
+    width: 30%
+}
 
