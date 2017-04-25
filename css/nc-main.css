@@ -776,6 +776,9 @@ hr.hr-1 {
 	height: 100vh;
 	overflow: hidden;
 }
+
+
+/**Presentation**/
 .image{
     width: 5%;
 	position: absolute;
