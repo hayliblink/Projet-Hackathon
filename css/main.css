@@ -477,9 +477,6 @@ hr.hr-1 {
 */
 /*---------- INTRO----------------------*/
 
-.photos {
-	margin-top: -10px;
-}
 
 	.logowild{
     	width: 20%;
@@ -508,6 +505,7 @@ font-weight: bold;
 
 .plus {
 	width: 4%;
+	margin-top: -2%;
 }
 
 #logo{
